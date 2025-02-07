@@ -1,13 +1,17 @@
+Modified
+
+
+
 Hello Mr. Rajasekhar, good to hear you.
 I am able to see some years exp in your resume....
 Could you please brief about yourself?
 
 
-Brief me your current assignments?
+Brief me about your current assignments?
 
 
 How do you rate yourself in Datawarehouse and Data modeling?
-in the scale of 1 to 5
+in the scale of 1 to 5,
 
 What is Datamart and How many types of data marts available?
 What is DWH approach and How many types of DWH approaches available?
